@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @cristobal-rrc
-- 👀 I’m interested in Mechanic, Marketing, Administration and Engineering
-- 🌱 I’m currently learning mechanical civil Engineering in PUCV
-- 💞️ I’m looking to collaborate on mining or other items.
+- 👋 Hi, I’m Cristóbal Ricardo Ramos Correa " @cristobal-rrc "
+- 👀 I’m interested in Mechanic, Asset Management, General Administration Management, Digital transformation $ Project Management
+- 🌱 I'm currently working as a development engineer, leading hardware and data projects & improve Assets (financial & physics) projects
+- 🌱 I'm currently working also in Child Security in my Child Tech Start Up "SICh"
+- 💞️ I’m looking to collaborate on my works cores.
 - 📫 How to reach me https://www.linkedin.com/in/crrcicmpucv
 
 <!---
